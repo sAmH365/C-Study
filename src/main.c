@@ -9,12 +9,13 @@
 
 int main(void) {
     printf("Hello, World\n");
-    int a, b;
+    int a, b, c;
     
     a = 5;
     b = 2;
+    c = 7;
     
-    printf("%d\n", a+b);
+    printf("%d\n", a+b+c);
     printf("%d\n", a*b);
     printf("\n");
     return 0;
