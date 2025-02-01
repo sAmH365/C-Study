@@ -14,7 +14,8 @@ int main(void) {
     a = 5;
     b = 2;
     
-    printf("%d", a+b);
+    printf("%d\n", a+b);
+    printf("%d\n", a*b);
     printf("\n");
     return 0;
 }
