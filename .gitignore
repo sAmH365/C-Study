@@ -13,7 +13,5 @@
 
 *.DS_Store
 
-*.vscode
-
 out/
 .vs/
