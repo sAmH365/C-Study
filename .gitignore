@@ -18,5 +18,7 @@
 
 *.DS_Store
 
+x64/Debug
+
 out/
 .vs/
